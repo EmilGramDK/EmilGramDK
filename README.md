@@ -1,5 +1,5 @@
 
-## Hi there, I'm Emil Gram <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>App Developer & Founder of Tonite.dk
+## Hi there, I'm Emil Gram <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/>Software Developer & Founder of Tonite.dk
 
 Based in Copenhagen, Denmark<br/>
 Currently studying Software at Aalborg University Copenhagen
