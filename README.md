@@ -10,7 +10,7 @@ Based in Copenhagen, Denmark<br/>
 <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
 </a>
 
-<a href="https://emilgram.dev/" rel="nofollow">
+<a href="https://emilgram.dk/" rel="nofollow">
 <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" alt="Website Badge" style="max-width:100%;">
 </a>
 
