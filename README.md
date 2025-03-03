@@ -1,6 +1,6 @@
 ## Hi, I'm Emil Gram <img src="https://raw.githubusercontent.com/EmilGramDK/EmilGramDK/main/wave.gif" width="30px">
 
-I am currently working at Man Energy Solutions as Software Process Engineer, where I build efficient and scalable software solutions that drive innovation in the industry.
+I am currently working full-time at Man Energy Solutions as Software Engineer.
 
 Outside of work, I'm constantly exploring new technologies, frameworks, and concepts. I thrive on solving complex problems and pushing the limits of what’s possible.
 
