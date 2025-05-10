@@ -1,10 +1,8 @@
 ## Hi, I'm Emil Gram <img src="https://raw.githubusercontent.com/EmilGramDK/EmilGramDK/main/wave.gif" width="30px">
 
-I am currently working full-time at Man Energy Solutions as Software Engineer.
+I’m a passionate software developer with 10+ years of programming experience and a deep love for solving complex problems.
 
-Outside of work, I'm constantly exploring new technologies, frameworks, and concepts. I thrive on solving complex problems and pushing the limits of what’s possible.
-
-I'm always working on multiple projects in my free time — but there's always room for one more. If you have an exciting idea or a challenge worth tackling, feel free to reach out!
+Driven by curiosity and a love for programming.
 
 Based in Copenhagen, Denmark 🇩🇰
 
